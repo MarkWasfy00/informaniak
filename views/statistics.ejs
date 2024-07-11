@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="<%= locale %>">
+<%- include('partials/_head.ejs') %>
+<body>
+<%- include('partials/_header.ejs') %>
+<main role="main" class="container mt-5">
+  <h2><%= __('Player Statistics') %></h2>
+  <div class="mt-4">
+    <h4><%= __('Overall Performance') %></h4>
+    <p><%= __('Total Battles') %>: <%= stats.totalBattles %></p>
+    <p><%= __('Total Wins') %>: <%= stats.totalWins %></p>
+    <p><%= __('Total Losses') %>: <%= stats.totalLosses %></p>
+  </div>
+  <div class="mt-4">
+    <h4><%= __('Choice Patterns') %></h4>
+    <p><%= __('Rock') %>: <%= stats.choiceCounts.rock %></p>
+    <p><%= __('Paper') %>: <%= stats.choiceCounts.paper %></p>
+    <p><%= __('Scissors') %>: <%= stats.choiceCounts.scissors %></p>
+  </div>
+</main>
+</body>
+<%- include('partials/_footer.ejs') %>
+</html>

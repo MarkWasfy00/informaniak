@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="<%= locale %>">
+<%- include('partials/_head.ejs') %>
+<body>
+<%- include('partials/_header.ejs') %>
+<main role="main" class="container mt-5">
+  <h2><%= __('Battle History') %></h2>
+  <% if (battles.length === 0) { %>
+    <p><%= __('No battle history found.') %></p>
+  <% } else { %>
+    <table class="table">
+      <thead>
+        <tr>
+          <th><%= __('Creator') %></th>
+          <th><%= __('Invited') %></th>
+          <th><%= __('Rounds') %></th>
+          <th><%= __('Final Winner') %></th>
+          <th><%= __('Date') %></th>
+        </tr>
+      </thead>
+      <tbody>
+        <% battles.forEach(battle => { %>
+          <tr>
+            <td><%= battle.creatorName %></td>
+            <td><%= battle.invitedName %></td>
+            <td><%= battle.rounds %></td>
+            <td><%= battle.finalWinner %></td>
+            <td><%= new Date(battle.createdAt).toLocaleString() %></td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  <% } %>
+</main>
+</body>
+<%- include('partials/_footer.ejs') %>
+</html>

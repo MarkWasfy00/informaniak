@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="<%= locale %>">
+<%- include('partials/_head.ejs') %>
+  <body class="homepage-bg">
+    <main role="main" class="container mt-4 text-center">
+      <img src="/assets/images/logo.png" alt="Logo" class="img-fluid logo">
+      <div class="mt-5">
+        <a class="btn btn-primary btn-lg mb-3 game-button" href="/battle/create"><%= __('Lancer une Partie') %></a>
+        <a class="btn btn-success btn-lg mb-3 game-button" href="/history"><%= __('Ranking') %></a>
+        <a class="btn btn-warning btn-lg mb-3 game-button" href="/auth/login"><%= __('Login') %></a>
+        <a class="btn btn-secondary btn-lg mb-3 game-button" href="/statistics"><%= __('Stats') %></a>
+        <a class="btn btn-warning btn-lg mb-3 game-button" href="/settings"><%= __('Settings') %></a>
+      </div>
+    </main>
+  </body>
+<%- include('partials/_footer.ejs') %>
+  <script src="/js/main.js"></script>
+</html>

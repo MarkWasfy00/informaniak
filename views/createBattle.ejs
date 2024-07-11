@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="<%= locale %>">
+<%- include('partials/_head.ejs') %>
+  <body>
+<%- include('partials/_header.ejs') %>
+    <main role="main">
+      <div class="container mt-5">
+        <h2><%= __('Create Battle') %></h2>
+        <form action="/battle/create" method="POST">
+          <div class="mb-3">
+            <input type="text" name="creatorName" placeholder="<%= __('Your Name') %>" class="form-control">
+          </div>
+          <div class="mb-3">
+            <input type="text" name="invitedName" placeholder="<%= __('Invited Player\'s Name (optional)') %>" class="form-control">
+          </div>
+          <div class="mb-3">
+            <label for="rounds"><%= __('Number of Rounds:') %></label>
+            <select id="rounds" name="rounds" class="form-control" required>
+              <option value="1"><%= __('1') %></option>
+              <option value="3"><%= __('3') %></option>
+            </select>
+          </div>
+          <div class="mb-3">
+            <button type="submit" class="btn btn-primary"><%= __('Create Battle') %></button>
+          </div>
+        </form>
+      </div>
+    </main>
+  </body>
+<%- include('partials/_footer.ejs') %>
+</html>

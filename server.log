@@ -1,0 +1,757 @@
+
+CORS origin: https://brutasses.ch
+Server running at https://brutasses.ch:3002
+Database connected successfully
+CORS origin: https://brutasses.ch
+Server running at https://brutasses.ch:3002
+Database connected successfully
+CORS origin: https://brutasses.ch
+Server running at https://brutasses.ch:3002
+Database connected successfully
+CORS origin: https://brutasses.ch
+Server running at https://brutasses.ch:3002
+Database connected successfully
+CORS origin: https://brutasses.ch
+Server running at http://localhost:3002
+Database connected successfully
+Session created at: 
+Language set to: en
+Session accessed again at: 2024-07-08T14:29:39.387Z, Views: 2, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-08T14:29:42.308Z, Views: 3, User ID: (unauthenticated)
+Language set to: en
+CORS origin: https://brutasses.ch
+Server running at http://localhost:3002
+Database connected successfully
+CORS origin: https://brutasses.ch
+Server running at http://localhost:3002
+Database connected successfully
+Session accessed again at: 2024-07-08T14:30:07.034Z, Views: 4, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-08T14:30:16.467Z, Views: 5, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-08T14:30:19.916Z, Views: 6, User ID: (unauthenticated)
+Language set to: en
+Battle created successfully: {"creatorName":"dsds","invitedName":"","rounds":1,"uniqueLink":"39c2a48b-0fe3-491b-9d6f-488a250d0344","status":"pending","_id":"668bf7fbb132980b64d06eb5","createdAt":"2024-07-08T14:30:19.921Z","results":[],"chatMessages":[],"__v":0}
+Session accessed again at: 2024-07-08T14:30:19.980Z, Views: 7, User ID: (unauthenticated)
+Language set to: en
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:3002
+Database connected successfully
+A user connected
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:3002
+Database connected successfully
+A user connected
+Received joinBattle event with data:
+Recreating battle in memory for link: 39c2a48b-0fe3-491b-9d6f-488a250d0344
+Players in battle 39c2a48b-0fe3-491b-9d6f-488a250d0344: 1
+Received joinBattle event with data:
+Player guest-e9yksdkf8 is already connected to battle 39c2a48b-0fe3-491b-9d6f-488a250d0344
+Socket ID gwWyL-zMsPTWFWKAAAAB disconnected
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:3002
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:3002
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:3002
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:3002
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:4000
+Database connected successfully
+Session accessed again at: 2024-07-09T11:24:00.542Z, Views: 8, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:24:02.434Z, Views: 9, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:25:12.868Z, Views: 10, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:25:14.622Z, Views: 11, User ID: (unauthenticated)
+Language set to: en
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:4000
+Database connected successfully
+Session accessed again at: 2024-07-09T11:26:13.915Z, Views: 12, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:26:16.580Z, Views: 13, User ID: (unauthenticated)
+Language set to: en
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:4000
+Database connected successfully
+Session accessed again at: 2024-07-09T11:26:39.954Z, Views: 14, User ID: (unauthenticated)
+Language set to: en
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:4000
+Database connected successfully
+Session accessed again at: 2024-07-09T11:28:32.088Z, Views: 15, User ID: (unauthenticated)
+Language set to: en
+index.html
+Session accessed again at: 2024-07-09T11:28:41.428Z, Views: 16, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:28:44.210Z, Views: 17, User ID: (unauthenticated)
+Language set to: en
+Battle created successfully: {"creatorName":"sd","invitedName":"","rounds":1,"uniqueLink":"5a5b54bc-b769-4f5c-a406-7bea8beff4b2","status":"pending","_id":"668d1eec281611f2bf0528f7","createdAt":"2024-07-09T11:28:44.216Z","results":[],"chatMessages":[],"__v":0}
+Session accessed again at: 2024-07-09T11:28:44.273Z, Views: 18, User ID: (unauthenticated)
+Language set to: en
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at http://localhost:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+Session created at: 
+Language set to: en
+Session accessed again at: 2024-07-09T11:46:35.863Z, Views: 2, User ID: (unauthenticated)
+Language set to: en
+index.html
+Session accessed again at: 2024-07-09T11:46:41.617Z, Views: 3, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:46:44.052Z, Views: 4, User ID: (unauthenticated)
+Language set to: en
+Battle created successfully: {"creatorName":"","invitedName":"","rounds":1,"uniqueLink":"79cae0d4-b127-44d1-8c27-e2efbe19292e","status":"pending","_id":"668d2324f9f46eeee489e3c3","createdAt":"2024-07-09T11:46:44.055Z","results":[],"chatMessages":[],"__v":0}
+Session accessed again at: 2024-07-09T11:46:44.104Z, Views: 5, User ID: (unauthenticated)
+Language set to: en
+Session created at: 
+Language set to: en
+Session accessed again at: 2024-07-09T11:47:02.246Z, Views: 2, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:47:05.366Z, Views: 6, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:47:06.686Z, Views: 3, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:47:13.658Z, Views: 7, User ID: (unauthenticated)
+Language set to: en
+index.html
+Session accessed again at: 2024-07-09T11:47:14.693Z, Views: 8, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:47:16.083Z, Views: 9, User ID: (unauthenticated)
+Language set to: en
+Battle created successfully: {"creatorName":"","invitedName":"","rounds":1,"uniqueLink":"b81250f8-c96e-4d17-99e4-fa18f58f6b87","status":"pending","_id":"668d2344f9f46eeee489e3c9","createdAt":"2024-07-09T11:47:16.085Z","results":[],"chatMessages":[],"__v":0}
+Session accessed again at: 2024-07-09T11:47:16.124Z, Views: 10, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:47:19.477Z, Views: 4, User ID: (unauthenticated)
+Language set to: en
+Session created at: 
+Language set to: en
+index.html
+Session accessed again at: 2024-07-09T11:51:42.821Z, Views: 2, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:51:46.248Z, Views: 3, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:51:51.403Z, Views: 4, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:51:53.267Z, Views: 5, User ID: (unauthenticated)
+Language set to: en
+Battle created successfully: {"creatorName":"","invitedName":"","rounds":1,"uniqueLink":"6674e965-9d7b-4716-b6e4-0f9cd6e86a78","status":"pending","_id":"668d2459f9f46eeee489e3cd","createdAt":"2024-07-09T11:51:53.268Z","results":[],"chatMessages":[],"__v":0}
+Session accessed again at: 2024-07-09T11:51:53.293Z, Views: 6, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:52:00.715Z, Views: 11, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:52:01.971Z, Views: 7, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:52:08.381Z, Views: 12, User ID: (unauthenticated)
+Language set to: en
+index.html
+Session accessed again at: 2024-07-09T11:52:09.837Z, Views: 13, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:52:11.712Z, Views: 14, User ID: (unauthenticated)
+Language set to: en
+Battle created successfully: {"creatorName":"","invitedName":"","rounds":1,"uniqueLink":"39e97a4c-9202-4d63-82c3-ba3abc338436","status":"pending","_id":"668d246bf9f46eeee489e3d1","createdAt":"2024-07-09T11:52:11.713Z","results":[],"chatMessages":[],"__v":0}
+Session accessed again at: 2024-07-09T11:52:11.748Z, Views: 15, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:52:13.722Z, Views: 8, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:52:16.908Z, Views: 9, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:52:19.311Z, Views: 10, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-09T11:52:22.853Z, Views: 11, User ID: (unauthenticated)
+Language set to: en
+CORS origin: https://brutasses.ch
+<Buffer 2d 2d 2d 2d 2d 42 45 47 49 4e 20 50 52 49 56 41 54 45 20 4b 45 59 2d 2d 2d 2d 2d 0a 4d 49 49 45 76 67 49 42 41 44 41 4e 42 67 6b 71 68 6b 69 47 39 77 ... 1653 more bytes>
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+<Buffer 2d 2d 2d 2d 2d 42 45 47 49 4e 20 43 45 52 54 49 46 49 43 41 54 45 2d 2d 2d 2d 2d 0a 4d 49 49 45 2b 7a 43 43 41 2b 4f 67 41 77 49 42 41 67 49 53 42 4f ... 3539 more bytes>
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+A user connected
+Received joinBattle event with data:
+Recreating battle in memory for link: 39e97a4c-9202-4d63-82c3-ba3abc338436
+Players in battle 39e97a4c-9202-4d63-82c3-ba3abc338436: 1
+Received joinBattle event with data:
+Player guest-e9yksdkf8 is already connected to battle 39e97a4c-9202-4d63-82c3-ba3abc338436
+Socket ID WqYtQNkdjxmS-gJ8AAAB disconnected
+Player guest-e9yksdkf8 disconnected
+Player guest-e9yksdkf8 removed from battle 39e97a4c-9202-4d63-82c3-ba3abc338436
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+Session accessed again at: 2024-07-10T07:21:49.110Z, Views: 16, User ID: (unauthenticated)
+Language set to: en
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+Session created at: 
+Language set to: en
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+Session created at: 
+Language set to: en
+index.html
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+Session accessed again at: 2024-07-10T07:38:26.292Z, Views: 17, User ID: (unauthenticated)
+Language set to: en
+index.html
+Session accessed again at: 2024-07-10T07:38:43.858Z, Views: 18, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-10T07:38:45.706Z, Views: 19, User ID: (unauthenticated)
+Language set to: en
+Battle created successfully: {"creatorName":"","invitedName":"","rounds":1,"uniqueLink":"ebd09031-78e7-46f4-9792-8130434bdf25","status":"pending","_id":"668e3a8534d08791abcc396f","createdAt":"2024-07-10T07:38:45.713Z","results":[],"chatMessages":[],"__v":0}
+Session accessed again at: 2024-07-10T07:38:45.768Z, Views: 20, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-10T07:39:41.992Z, Views: 21, User ID: (unauthenticated)
+Language set to: en
+Session created at: 
+Language set to: en
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+A user connected
+Received joinBattle event with data:
+Recreating battle in memory for link: ebd09031-78e7-46f4-9792-8130434bdf25
+Players in battle ebd09031-78e7-46f4-9792-8130434bdf25: 1
+Received joinBattle event with data:
+Player guest-e9yksdkf8 is already connected to battle ebd09031-78e7-46f4-9792-8130434bdf25
+Socket ID uDy-vpSchRCdZV5aAAAB disconnected
+Player guest-e9yksdkf8 disconnected
+Player guest-e9yksdkf8 removed from battle ebd09031-78e7-46f4-9792-8130434bdf25
+Session created at: 
+Language set to: en
+index.html
+CORS origin: https://brutasses.ch
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL Key Loaded:
+
+SSL Certificate Loaded:
+
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL Key Loaded:
+
+SSL Certificate Loaded:
+
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL Key Loaded:
+
+SSL Certificate Loaded:
+
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL Key Loaded:
+
+SSL Certificate Loaded:
+
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL Key Loaded:
+
+SSL Certificate Loaded:
+
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL Key Loaded:
+
+SSL Certificate Loaded:
+
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+SSL Key Info:
+
+SSL Certificate Info:
+
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+Attempting to read key file from:
+Key file read successfully, length:
+Attempting to read cert file from:
+Cert file read successfully, length:
+SSL options loaded successfully
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+Session created at: 
+Language set to: en
+index.html
+Session created at: 
+Language set to: en
+index.html
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+Session accessed again at: 2024-07-10T08:21:02.860Z, Views: 22, User ID: (unauthenticated)
+Language set to: en
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+Session accessed again at: 2024-07-10T08:22:25.871Z, Views: 23, User ID: (unauthenticated)
+Session accessed again at: 2024-07-10T08:22:30.597Z, Views: 24, User ID: (unauthenticated)
+Language set to: en
+index.html
+Session accessed again at: 2024-07-10T08:22:35.733Z, Views: 25, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-10T08:22:37.322Z, Views: 26, User ID: (unauthenticated)
+Language set to: en
+Battle created successfully: {"creatorName":"","invitedName":"","rounds":1,"uniqueLink":"f7870d38-5672-4c3a-a84b-3781a226509d","status":"pending","_id":"668e44cd14efd894d7ad4623","createdAt":"2024-07-10T08:22:37.328Z","results":[],"chatMessages":[],"__v":0}
+Session accessed again at: 2024-07-10T08:22:37.383Z, Views: 27, User ID: (unauthenticated)
+Language set to: en
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+CORS origin: https://brutasses.ch
+Key file path:
+Cert file path:
+Attempting to read key file
+Key file read successfully, length:
+Attempting to read cert file
+Cert file read successfully, length:
+SSL options loaded successfully
+Key file start:
+Cert file start:
+HTTPS server created successfully
+Server running at https://brutasses.ch:4000
+Database connected successfully
+Session accessed again at: 2024-07-10T11:54:21.136Z, Views: 5, User ID: (unauthenticated)
+Language set to: en
+index.html
+Session accessed again at: 2024-07-10T11:54:29.002Z, Views: 6, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-10T11:54:32.561Z, Views: 7, User ID: (unauthenticated)
+Language set to: en
+Battle created successfully: {"creatorName":"","invitedName":"","rounds":1,"uniqueLink":"327271ca-f881-4c4c-8631-a64cf1e22867","status":"pending","_id":"668e767889e7ddcd3e0e13e5","createdAt":"2024-07-10T11:54:32.578Z","results":[],"chatMessages":[],"__v":0}
+Session accessed again at: 2024-07-10T11:54:32.645Z, Views: 8, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-10T11:54:45.686Z, Views: 28, User ID: (unauthenticated)
+Language set to: en
+index.html
+Session accessed again at: 2024-07-10T11:54:47.163Z, Views: 29, User ID: (unauthenticated)
+Language set to: en
+Session accessed again at: 2024-07-10T11:54:48.486Z, Views: 30, User ID: (unauthenticated)
+Language set to: en
+Battle created successfully: {"creatorName":"","invitedName":"","rounds":1,"uniqueLink":"daeca3a6-b898-422e-865a-f1832e1bc62e","status":"pending","_id":"668e768889e7ddcd3e0e13e8","createdAt":"2024-07-10T11:54:48.488Z","results":[],"chatMessages":[],"__v":0}
+Session accessed again at: 2024-07-10T11:54:48.550Z, Views: 31, User ID: (unauthenticated)
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session accessed again at: 2024-07-10T11:55:46.622Z, Views: 2, User ID: (unauthenticated)
+Language set to: en
+Battle created successfully: {"creatorName":"Fiverr","invitedName":"","rounds":3,"uniqueLink":"88a8ed10-ae23-4783-b935-40c971a2319b","status":"pending","_id":"668e76c289e7ddcd3e0e13eb","createdAt":"2024-07-10T11:55:46.623Z","results":[],"chatMessages":[],"__v":0}
+Session accessed again at: 2024-07-10T11:55:46.771Z, Views: 3, User ID: (unauthenticated)
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session accessed again at: 2024-07-10T12:04:46.372Z, Views: 2, User ID: (unauthenticated)
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session accessed again at: 2024-07-10T12:05:39.841Z, Views: 2, User ID: (unauthenticated)
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+index.html
+Session created at: 
+Language set to: en
+index.html
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en
+Session created at: 
+Language set to: en

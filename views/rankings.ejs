@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="<%= locale %>">
+<%- include('partials/_head.ejs') %>
+<body>
+<%- include('partials/_header.ejs') %>
+<main role="main" class="container mt-5">
+  <h2><%= __('Player Rankings') %></h2>
+  <% if (users.length === 0) { %>
+    <p><%= __('No player rankings available.') %></p>
+  <% } else { %>
+    <table class="table">
+      <thead>
+        <tr>
+          <th><%= __('Username') %></th>
+          <th><%= __('Wins') %></th>
+          <th><%= __('Losses') %></th>
+          <th><%= __('Points') %></th>
+        </tr>
+      </thead>
+      <tbody>
+        <% users.forEach(user => { %>
+          <tr>
+            <td><%= user.username %></td>
+            <td><%= user.wins %></td>
+            <td><%= user.losses %></td>
+            <td><%= user.points %></td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  <% } %>
+</main>
+</body>
+<%- include('partials/_footer.ejs') %>
+</html>

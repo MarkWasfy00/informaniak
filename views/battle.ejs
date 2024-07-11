@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="<%= locale %>">
+<%- include('partials/_head.ejs') %>
+<body>
+<%- include('partials/_header.ejs') %>
+<main role="main" class="container mt-5">
+  <div id="countdown" class="d-none">3</div>
+
+  <div id="status"><%= __('Waiting for players to join...') %></div>
+  <div id="winnerContainer" class="d-none">
+    <h1 id="winnerName"></h1>
+    <p id="winnerMessage"></p>
+    <img id="winnerImage" src="" alt="Result Image" />
+  </div>
+  
+  <div id="shareContainer">
+    <p><%= __('Share this battle link:') %></p>
+    <a id="whatsappShare" href="#" target="_blank"><img src="/assets/images/social/whatsapp.svg" alt="WhatsApp"></a>
+    <a id="signalShare" href="#" target="_blank"><img src="/assets/images/social/signal.svg" alt="Signal"></a>
+    <a id="telegramShare" href="#" target="_blank"><img src="/assets/images/social/telegram.svg" alt="Telegram"></a>
+    <a id="smsShare" href="#" target="_blank"><img src="/assets/images/social/chat-bubble.svg" alt="SMS"></a>
+    <a id="copyLink" href="#" title="Copy Link"><img src="/assets/images/social/paste.svg" alt="Copy"></a>
+  </div>
+  <div id="game" style="display:none;">
+    <h3><%= __('Make your choice:') %></h3>
+    <button id="rock" class="btn btn-primary"><%= __('Rock') %></button>
+    <button id="paper" class="btn btn-primary"><%= __('Paper') %></button>
+    <button id="scissors" class="btn btn-primary"><%= __('Scissors') %></button>
+    <div id="timer"><%= __('Time left:') %> <span id="timeLeft">10</span> <%= __('seconds') %></div>
+  </div>
+  <div id="scores" style="margin-top: 20px;"></div>
+  <!-- New Game Button -->
+  <div id="newGameContainer" style="display:none; margin-top: 20px;">
+    <button id="newGameButton" class="btn btn-success"><%= __('New Game with Same Player') %></button>
+  </div>
+  <!-- Chat box -->
+  <div id="chatContainer" class="container d-none">
+    <div id="chatBox" class="chat-box"></div>
+    <div class="chat-input">
+      <input type="text" id="messageInput" placeholder="Type your message...">
+      <button id="sendButton">Send</button>
+    </div>
+  </div>
+</main>
+</body>
+<%- include('partials/_footer.ejs') %>
+
+<script>
+  if (Notification.permission !== 'granted') {
+    Notification.requestPermission();
+  }
+  
+  document.addEventListener('DOMContentLoaded', () => {
+    const { uniqueLink } = window.APP_CONFIG;
+    const battleLink = `https://dueldebrutasses.com/battle/${uniqueLink}`;
+    const battleLinkInput = document.createElement('input');
+    battleLinkInput.value = battleLink;
+    battleLinkInput.style.position = 'absolute';
+    battleLinkInput.style.left = '-9999px';
+    document.body.appendChild(battleLinkInput);
+  
+    document.getElementById('whatsappShare').href = `https://wa.me/?text=${encodeURIComponent(battleLink)}`;
+    document.getElementById('signalShare').href = `signal://send?text=${encodeURIComponent(battleLink)}`;
+    document.getElementById('telegramShare').href = `https://telegram.me/share/url?url=${encodeURIComponent(battleLink)}&text=Join%20the%20battle!`;
+    document.getElementById('smsShare').href = `sms:?&body=${encodeURIComponent(battleLink)}`;
+  
+    document.getElementById('copyLink').addEventListener('click', (event) => {
+      event.preventDefault();
+      battleLinkInput.select();
+      document.execCommand('copy');
+      alert('<%= __('Link copied to clipboard!') %>');
+    });
+  });
+  </script>
+</html>
